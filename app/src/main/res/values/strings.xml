@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Serie A soccer score keeper</string>
+    <string name="plusButton">+</string>
+    <string name="minusButton">-</string>
+    <string name="zeroStatsText">0</string>
+    <string name="slash">-</string>
+    <string name="scorersText">Scorers:</string>
+    <string name="addScorerButton">Add</string>
+    <string name="deleteScorerButton">Delete</string>
+    <string name="resetStatsButton">Reset Stats</string>
+    <string name="shotsText">Shots</string>
+    <string name="cornersText">Corners</string>
+    <string name="foulsText">Fouls</string>
+    <string name="yellowCardsText">Yellow cards</string>
+    <string name="redCardsText">Red cards</string>
+
+    <array name="teamList">
+        <item>Napoli</item>
+        <item>Juventus</item>
+        <item>Milan</item>
+        <item>Inter</item>
+        <item>Roma</item>
+        <item>Lazio</item>
+        <item>Atalanta</item>
+        <item>Chievo</item>
+        <item>Fiorentina</item>
+        <item>Torino</item>
+        <item>Sampdoria</item>
+        <item>Cagliari</item>
+        <item>Sassuolo</item>
+        <item>Udinese</item>
+        <item>Bologna</item>
+        <item>Genoa</item>
+        <item>Empoli</item>
+        <item>Palermo</item>
+        <item>Crotone</item>
+        <item>Pescara</item>
+    </array>
+
+
+</resources>
+
+
